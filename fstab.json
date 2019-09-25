@@ -1,7 +1,7 @@
 {
   "mountpoints": [
     {
-      "root": "/decks",
+      "root": "/",
       "url": "https://drive.google.com/drive/u/0/folders/1Nl9CyRlc0BRjaG2-yYk0QEiCoESPMBn4"
     }
   ]
